@@ -1,5 +1,6 @@
 artifacts_root: artifacts
 
+
 data_ingestion:
   root_dir: artifacts/data_ingestion
   source_URL: https://github.com/deepjyoti095/Text_Summarizer_Project/raw/refs/heads/main/summarizer-data.zip
